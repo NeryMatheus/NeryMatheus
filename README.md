@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Estudando front-end(Html, Css, Javascript e Angular)
+- 🌱 Estudando Front-end(Html, Css, Javascript e Angular) UI/UX e Protótipos - Websites
 - 😄 Pronouns: ele/dele
 
 <div align="center">
