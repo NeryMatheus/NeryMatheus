@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Analista de Desenvolvimento estudando (Html, Css, Javascript, Angular, Yii Framework);
-- 😄 Pronouns: ele/dele
+- 🌱 Analista de Desenvolvimento;
+- 😄 Eterno estudante
 
 <div align="center">
   <a href="https://github.com/NeryMatheus">
