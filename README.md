@@ -1,6 +1,6 @@
 ### Olá. Eu sou o Matheus Nery
 
-- 🌱 Desenvolvedor Backend NestJs
+- 🌱 Desenvolvedor Backend
 - 😄 Eterno estudante
 
 <div align="center">
