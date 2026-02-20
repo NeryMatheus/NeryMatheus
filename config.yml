@@ -10,47 +10,43 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: NeryMatheus
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
-  bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+  name: "Matheus Nery"
+  tagline: "Engenheiro de Software"
+  company: "Bemol S/A"
+  location: "Manaus, AM"
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  linkedin: "www.linkedin.com/in/nerymatheusferreira"
+  website: "https://new-portfolio-app.vercel.app/"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "Frontend"
+  - name: "Backend"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
-      - "React"
-      - "CSS"
-  - name: "Backend"
+      - "Node.js"
+      - "C#"
+      - "Asp.NET"
+      - "Python"
+  - name: "Databases"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
       - "PostgreSQL"
+      - "MariaDB"
+      - "MySQL"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
       - "GitHub Actions"
-      - "AWS"
+      - "Azure"
 
 # Featured projects shown as constellation stars
 # Each project needs:
